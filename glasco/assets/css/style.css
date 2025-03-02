@@ -878,6 +878,8 @@ section {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 0px 10px 0px;
+    border-radius: 15px;
 }
 
 .portfolio .portfolio-wrap img {
