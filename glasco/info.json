@@ -1,0 +1,176 @@
+{
+    "projects": [
+        {
+            "id": "SKY_LINE",
+            "image": "assets/img/portfolio/sky_line/sl1.jpg",
+            "title": "SKY LINE",
+            "location": "Location: Arjan, Dubai",
+            "description": "Sky Line is a future under construction project in Arjaan, led by Atcon as the contractor and Chawla Consulting as the consultant.",
+           "imgs":[
+            "assets/img/portfolio/sky_line/sl1.jpg",
+            "assets/img/portfolio/sky_line/sl2.jpg",
+            "assets/img/portfolio/sky_line/sl3.jpg",
+            "assets/img/portfolio/sky_line/sl4.jpg",
+            "assets/img/portfolio/sky_line/sl5.jpg"
+           ]
+        },
+        {
+            "id": "LIME_LIGHT",
+            "image": "assets/img/portfolio/lime_light/lime1.jpg",
+            "title": "LIME LIGHT",
+            "location": "Location: Sport City",
+            "description": "Limelight Twin Towers is a multi-building complex in Sports City, Dubai, developed with Cast Construction and Chawla Consulting.",
+            "imgs":[
+                "assets/img/portfolio/sky_line/sl1.jpg",
+                "assets/img/portfolio/sky_line/sl2.jpg",
+                "assets/img/portfolio/sky_line/sl3.jpg",
+                "assets/img/portfolio/sky_line/sl4.jpg",
+                "assets/img/portfolio/sky_line/sl5.jpg"
+               ]
+        },
+        {
+            "id": "AL_JADDAF",
+            "image": "assets/img/portfolio/AL_JADDAF/aj1.png",
+            "title": "AL JADDAF",
+            "location": "Location: Al Jaddaf Dubai",
+            "description": "Al Jaddaf Building is a 10-story structure with 2 basements and a ground floor, built by Atcon and managed by MSquare Consulting.",
+            "image1": "assets/img/portfolio/AL_JADDAF/aj2.png",
+            "image2": "assets/img/portfolio/AL_JADDAF/aj1.png"
+        },
+        {
+            "id": "SPORT_ARENA",
+            "image": "assets/img/portfolio/sky_line/sl1.jpg",
+            "title": "SKY LINE",
+            "location": "Location: Arjan, Dubai",
+            "description": "Sky Line is a future under construction project in Arjaan, led by Atcon as the contractor and Chawla Consulting as the consultant.",
+            "image1": "assets/img/portfolio/sky_line/sl1.jpg",
+            "image2": "assets/img/portfolio/sky_line/sl2.jpg",
+            "image3": "assets/img/portfolio/sky_line/sl3.jpg",
+            "image4": "assets/img/portfolio/sky_line/sl4.jpg",
+            "image5": "assets/img/portfolio/sky_line/sl5.jpg",
+            "image6": "assets/img/portfolio/sky_line/sl6.jpg"
+        },
+        {
+            "id": "THE_COMMUNITY_1",
+            "image": "assets/img/portfolio/sky_line/sl1.jpg",
+            "title": "SKY LINE",
+            "location": "Location: Arjan, Dubai",
+            "description": "Sky Line is a future under construction project in Arjaan, led by Atcon as the contractor and Chawla Consulting as the consultant.",
+            "image1": "assets/img/portfolio/sky_line/sl1.jpg",
+            "image2": "assets/img/portfolio/sky_line/sl2.jpg",
+            "image3": "assets/img/portfolio/sky_line/sl3.jpg",
+            "image4": "assets/img/portfolio/sky_line/sl4.jpg",
+            "image5": "assets/img/portfolio/sky_line/sl5.jpg",
+            "image6": "assets/img/portfolio/sky_line/sl6.jpg"
+        },        {
+            "id": "THE_COMMUNITY_2",
+            "image": "assets/img/portfolio/sky_line/sl1.jpg",
+            "title": "SKY LINE",
+            "location": "Location: Arjan, Dubai",
+            "description": "Sky Line is a future under construction project in Arjaan, led by Atcon as the contractor and Chawla Consulting as the consultant.",
+            "image1": "assets/img/portfolio/sky_line/sl1.jpg",
+            "image2": "assets/img/portfolio/sky_line/sl2.jpg",
+            "image3": "assets/img/portfolio/sky_line/sl3.jpg",
+            "image4": "assets/img/portfolio/sky_line/sl4.jpg",
+            "image5": "assets/img/portfolio/sky_line/sl5.jpg",
+            "image6": "assets/img/portfolio/sky_line/sl6.jpg"
+        },        {
+            "id": "Private_Villa",
+            "image": "assets/img/portfolio/sky_line/sl1.jpg",
+            "title": "SKY LINE",
+            "location": "Location: Arjan, Dubai",
+            "description": "Sky Line is a future under construction project in Arjaan, led by Atcon as the contractor and Chawla Consulting as the consultant.",
+            "image1": "assets/img/portfolio/sky_line/sl1.jpg",
+            "image2": "assets/img/portfolio/sky_line/sl2.jpg",
+            "image3": "assets/img/portfolio/sky_line/sl3.jpg",
+            "image4": "assets/img/portfolio/sky_line/sl4.jpg",
+            "image5": "assets/img/portfolio/sky_line/sl5.jpg",
+            "image6": "assets/img/portfolio/sky_line/sl6.jpg"
+        },        {
+            "id": "EMPIRE_LIVINGS",
+            "image": "assets/img/portfolio/sky_line/sl1.jpg",
+            "title": "SKY LINE",
+            "location": "Location: Arjan, Dubai",
+            "description": "Sky Line is a future under construction project in Arjaan, led by Atcon as the contractor and Chawla Consulting as the consultant.",
+            "image1": "assets/img/portfolio/sky_line/sl1.jpg",
+            "image2": "assets/img/portfolio/sky_line/sl2.jpg",
+            "image3": "assets/img/portfolio/sky_line/sl3.jpg",
+            "image4": "assets/img/portfolio/sky_line/sl4.jpg",
+            "image5": "assets/img/portfolio/sky_line/sl5.jpg",
+            "image6": "assets/img/portfolio/sky_line/sl6.jpg"
+        },        {
+            "id": "EMPIRE_RESIDENCE",
+            "image": "assets/img/portfolio/sky_line/sl1.jpg",
+            "title": "SKY LINE",
+            "location": "Location: Arjan, Dubai",
+            "description": "Sky Line is a future under construction project in Arjaan, led by Atcon as the contractor and Chawla Consulting as the consultant.",
+            "image1": "assets/img/portfolio/sky_line/sl1.jpg",
+            "image2": "assets/img/portfolio/sky_line/sl2.jpg",
+            "image3": "assets/img/portfolio/sky_line/sl3.jpg",
+            "image4": "assets/img/portfolio/sky_line/sl4.jpg",
+            "image5": "assets/img/portfolio/sky_line/sl5.jpg",
+            "image6": "assets/img/portfolio/sky_line/sl6.jpg"
+        },        {
+            "id": "SKY_LINE",
+            "image": "assets/img/portfolio/sky_line/sl1.jpg",
+            "title": "SKY LINE",
+            "location": "Location: Arjan, Dubai",
+            "description": "Sky Line is a future under construction project in Arjaan, led by Atcon as the contractor and Chawla Consulting as the consultant.",
+            "image1": "assets/img/portfolio/sky_line/sl1.jpg",
+            "image2": "assets/img/portfolio/sky_line/sl2.jpg",
+            "image3": "assets/img/portfolio/sky_line/sl3.jpg",
+            "image4": "assets/img/portfolio/sky_line/sl4.jpg",
+            "image5": "assets/img/portfolio/sky_line/sl5.jpg",
+            "image6": "assets/img/portfolio/sky_line/sl6.jpg"
+        },
+        {
+            "id": "",
+            "image": "assets/img/portfolio/.jpg",
+            "title": "",
+            "location": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "image": "assets/img/portfolio/.jpg",
+            "title": "",
+            "location": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "image": "assets/img/portfolio/.jpg",
+            "title": "",
+            "location": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "image": "assets/img/portfolio/.jpg",
+            "title": "",
+            "location": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "image": "assets/img/portfolio/.jpg",
+            "title": "",
+            "location": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "image": "assets/img/portfolio/.jpg",
+            "title": "",
+            "location": "",
+            "description": ""
+        },
+        {
+            "id": "",
+            "image": "assets/img/portfolio/.jpg",
+            "title": "",
+            "location": "",
+            "description": ""
+        }
+    ]
+}
